@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Autenticazione"},{"l":"Connectivity"},{"l":"GestioneConsegne"},{"l":"GestioneMagazzino"},{"l":"GestioneOrdini"},{"l":"GestioneSegnalazioni"},{"l":"Main"}];updateSearchResults();
